@@ -3,9 +3,9 @@
 we can generator jokes on a single click.
 
 
-## Screenshots
+## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot_20230719_220500](https://github.com/AbuZaid55/Jokes_Generator/assets/115403447/f10a83a4-7470-45d0-b38d-d2bf1cae7107)
 
 
 ## 🔗 Links
